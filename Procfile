@@ -1,0 +1,1 @@
+web: gunicorn prosearch.wsgi --log-file -
